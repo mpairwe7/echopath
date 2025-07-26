@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "989018014187",
+    "project_id": "zalonidentalhub",
+    "storage_bucket": "zalonidentalhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989018014187:android:e3aad03dcf1b2223e999ae",
+        "android_client_info": {
+          "package_name": "com.dental.zalonidentalhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeexhnwPLdCA9683lD4bfGiE6qmKT-2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989018014187:android:fad13e9e69d40671e999ae",
+        "android_client_info": {
+          "package_name": "com.example.echo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeexhnwPLdCA9683lD4bfGiE6qmKT-2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989018014187:android:0af10bf2aacc9f41e999ae",
+        "android_client_info": {
+          "package_name": "com.example.zalonidentalhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeexhnwPLdCA9683lD4bfGiE6qmKT-2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
